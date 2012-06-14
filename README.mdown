@@ -1,0 +1,16 @@
+#Aero Adjuster
+Aero Adjuster was created by [@SamusAranX](https://twitter.com/SamusAranX).
+
+##Capabilities
+
+* Whenever your wallpaper changes, Aero Adjuster calculates its average color and sets it as Aero color
+* A lot of options, including applying the negative of a color, selecting a part of the image to sample the color from, getting the average brightness from an image and more
+
+##Usage
+* You need to have .NET Framework 3.5 installed
+* Start Aero Adjuster just as you would start any other application
+* Let Aero Adjuster work its magic
+* ...or show the options by right-clicking on Aero Adjuster's tray icon
+
+###License
+[CC BY-NC 3.0](http://creativecommons.org/licenses/by-nc/3.0/)
